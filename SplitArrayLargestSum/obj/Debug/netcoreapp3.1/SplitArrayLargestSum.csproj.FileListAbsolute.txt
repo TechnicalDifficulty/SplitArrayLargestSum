@@ -1,0 +1,14 @@
+D:\Coding Challenges\Split Array Largest Sum\SplitArrayLargestSum\obj\Debug\netcoreapp3.1\SplitArrayLargestSum.csproj.AssemblyReference.cache
+D:\Coding Challenges\Split Array Largest Sum\SplitArrayLargestSum\obj\Debug\netcoreapp3.1\SplitArrayLargestSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Challenges\Split Array Largest Sum\SplitArrayLargestSum\obj\Debug\netcoreapp3.1\SplitArrayLargestSum.AssemblyInfoInputs.cache
+D:\Coding Challenges\Split Array Largest Sum\SplitArrayLargestSum\obj\Debug\netcoreapp3.1\SplitArrayLargestSum.AssemblyInfo.cs
+D:\Coding Challenges\Split Array Largest Sum\SplitArrayLargestSum\obj\Debug\netcoreapp3.1\SplitArrayLargestSum.csproj.CoreCompileInputs.cache
+D:\Coding Challenges\Split Array Largest Sum\SplitArrayLargestSum\bin\Debug\netcoreapp3.1\SplitArrayLargestSum.exe
+D:\Coding Challenges\Split Array Largest Sum\SplitArrayLargestSum\bin\Debug\netcoreapp3.1\SplitArrayLargestSum.deps.json
+D:\Coding Challenges\Split Array Largest Sum\SplitArrayLargestSum\bin\Debug\netcoreapp3.1\SplitArrayLargestSum.runtimeconfig.json
+D:\Coding Challenges\Split Array Largest Sum\SplitArrayLargestSum\bin\Debug\netcoreapp3.1\SplitArrayLargestSum.runtimeconfig.dev.json
+D:\Coding Challenges\Split Array Largest Sum\SplitArrayLargestSum\bin\Debug\netcoreapp3.1\SplitArrayLargestSum.dll
+D:\Coding Challenges\Split Array Largest Sum\SplitArrayLargestSum\bin\Debug\netcoreapp3.1\SplitArrayLargestSum.pdb
+D:\Coding Challenges\Split Array Largest Sum\SplitArrayLargestSum\obj\Debug\netcoreapp3.1\SplitArrayLargestSum.dll
+D:\Coding Challenges\Split Array Largest Sum\SplitArrayLargestSum\obj\Debug\netcoreapp3.1\SplitArrayLargestSum.pdb
+D:\Coding Challenges\Split Array Largest Sum\SplitArrayLargestSum\obj\Debug\netcoreapp3.1\SplitArrayLargestSum.genruntimeconfig.cache
